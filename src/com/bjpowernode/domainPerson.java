@@ -4,4 +4,5 @@ public class domainPerson {
 
     private String id;
     private String name;
+    private String address;
 }
